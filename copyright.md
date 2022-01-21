@@ -1,6 +1,7 @@
 **Base**
 FirepointOS Kernel (c) 2022 by Joscha Egloff
 **Gnu-Efi**:
+    `
     The files in the "lib" and "inc" subdirectories are using the EFI Application 
     Toolkit distributed by Intel at http://developer.intel.com/technology/efi
 
@@ -30,3 +31,6 @@ FirepointOS Kernel (c) 2022 by Joscha Egloff
     POSSIBILITY OF SUCH DAMAGE. THE EFI SPECIFICATION AND ALL OTHER INFORMATION
     ON THIS WEB SITE ARE PROVIDED "AS IS" WITH NO WARRANTIES, AND ARE SUBJECT
     TO CHANGE WITHOUT NOTICE.
+    `
+    
+  *C*
